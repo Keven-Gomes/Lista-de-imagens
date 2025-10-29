@@ -6,7 +6,7 @@
 
 Uma elegante galeria de arte responsiva implementada com HTML5 e CSS3 (Flexbox). Este projeto demonstra a criação de um layout moderno e adaptável para exibição de obras de arte, combinando design minimalista com boas práticas de desenvolvimento web.
 
-![Preview do Projeto](./src/images/preview.png)
+![Preview do Projeto](./src/images/image-lista-de-imagens.PNG.png)
 
 ## 💫 Destaques do Projeto
 
@@ -115,7 +115,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-Link do Projeto: [https://github.com/seu-usuario/galeria-arte-flexbox](https://github.com/seu-usuario/galeria-arte-flexbox)
+Link do Projeto: [https://github.com/Keven-Gomes/Lista-de-imagens](https://github.com/Keven-Gomes/Lista-de-imagens)
 
 ---
 
