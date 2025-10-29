@@ -1,0 +1,60 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Public Sans", sans-serif;
+}
+
+.main {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.picture {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.main .picture .container {
+    width: 335px;
+    height: 431px;
+    position: relative;
+}
+.main .picture .container img {
+    width: 100%;
+}
+
+.main .picture .container .text {
+    position: absolute;
+    color: #FFFFFF;
+    bottom: 40px;
+    left: 20px;
+}
+
+.main .picture .container .text .tittle {
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.main .picture .container .text .description {
+    font-weight: 300;
+    font-size: 1.7rem;
+}
+
+.main .picture .container .text .description-sand-sea {
+    font-weight: 400;
+    font-size: 1.7rem
+}
+
+/* @media screen and (max-width: 768px){
+    .main {
+        display: flex;
+        flex-direction: column;
+    }
+} */
